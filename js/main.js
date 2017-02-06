@@ -220,11 +220,7 @@ function section4() {
             'opacity': 1
         }, 700).addClass('move-right');
     });
-    move('.num6 .simboo').scale(1).end(function() {
-        $('.num6 .progress-content').animate({
-            'opacity': 1
-        }, 700).addClass('move-left');
-    });
+    
    
 
 }
